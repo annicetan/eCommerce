@@ -1,5 +1,3 @@
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-
 # eCommerce
 Happen to know Haidilao but do not know where to buy their merchandise? Do you find yourself struggling to find out what merchandise Haidilao offer and sell? Do you want to have an update of your favourite HotPot restraunt? Do you want to win rewards and be a VIP member? We know. My partner(Vivian) and I(Annice) create and designed ***VHDLA*** (Website's Name) comes in to be your best friend!
 
