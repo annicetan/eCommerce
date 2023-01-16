@@ -27,6 +27,7 @@ In my project, I have created a few pages including:
   - Social Media
     - Haidilao Official Instagram Account
     - Haidilao Official Facebook Account
+    - VHDLA's Whatsapp helpdesk
  
 ### User Stories
 - Customers who wants to find out more about what merchandise or products Haidilao sells when they click on Merchandise page
@@ -41,8 +42,8 @@ In my project, I have created a few pages including:
   - Once user opens the website, they will be met by the website's home page with a picture and a logo of Haidilao for a few seconds
   
 - Feature 2: About Page
-  - When user click on the 'About' tab, the page will be opened up and they will be able to see their mission, motto and background of Haidilao
-  
+  - When user click on the 'About' tab, the page will be opened up and they will be able to see the contents of the website. We will include a link to the HaiDiLao's original website that shows their mission, motto and services. 
+    
 - Feature 3: Haidilao Merchandise Page
   - Main point of this entire project
   - Users are also able to find out seasonal merchandise by Haidilao
