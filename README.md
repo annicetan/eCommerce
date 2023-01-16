@@ -1,5 +1,5 @@
 # eCommerce
-Happen to know Haidilao but do not know where to buy their merchandise? Do you find yourself struggling to find out what merchandise Haidilao offer and sell? Do you want to have an update of your favourite HotPot restraunt? Do you want to win rewards and be a VIP member? We know. My partner(Vivian) and I(Annice) create and designed ***VHDLA*** (Website's Name) comes in to be your best friend!
+Happen to know Haidilao but do not know where to buy their merchandise? Do you find yourself struggling to find out what merchandise Haidilao offer and sell? Do you want to have an update of your favourite HotPot restuarant? Do you want to win rewards and be a VIP member? We know. My partner(Vivian) and I(Annice) created and designed ***VHDLA*** (Website's Name) comes in to be your best friend!
 
 From home and about page, a uniquely designed merchandise page that shows all, seasonsal and limited edition merchandise, membership page where you are able to sign up and collect rewards, to getting updates from Haidilao's Main Social Media Account. VHDLA has all the features to keep you updated and support you in your journey in becoming a long-term customer in Haidilao.
 
@@ -12,9 +12,8 @@ In my project, I have created a few pages including:
     - Picture & Logo
     
   - About
-    - Mission
-    - Motto
-    - Background
+    - Website's content
+    - Link to HaiDiLao's original website
     
   - Haidilao Merchandise
     - Main point of this project
