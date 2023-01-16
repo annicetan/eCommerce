@@ -38,7 +38,7 @@ In my project, I have created a few pages including:
 
 ## Features
 - Feature 1: Home Page
-  - Once user opens the website, they will be met by the website's home page with a picture and a logo of Haidilao 
+  - Once user opens the website, they will be met by the website's home page with a picture and a logo of Haidilao for a few seconds
   
 - Feature 2: About Page
   - When user click on the 'About' tab, the page will be opened up and they will be able to see their mission, motto and background of Haidilao
