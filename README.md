@@ -23,7 +23,7 @@ In my project, I have created a few pages including:
     - Signing up for membership
     - Rewards and points awarded
     
-  - Social Media
+  - Social Media (at the bottom of every page)
     - Haidilao Official Instagram Account
     - Haidilao Official Facebook Account
     - VHDLA's Whatsapp helpdesk
