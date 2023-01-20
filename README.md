@@ -21,7 +21,7 @@ In my project, I have created a few pages including:
     - Main point of this project
     - Merchandise sold in Haidilao
     
-  - Haidilao Membership
+  - VHDLA Membership
     - Signing up for membership
     - Rewards and points awarded
     
