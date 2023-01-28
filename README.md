@@ -28,7 +28,6 @@ In my project, I have created a few pages including:
   - Social Media (at the bottom of every page)
     - Haidilao Official Instagram Account
     - Haidilao Official Facebook Account
-    - VHDLA's Whatsapp helpdesk
  
 ### User Stories
 - Customers who wants to find out more about what merchandise or products Haidilao sells when they click on Merchandise page
@@ -92,7 +91,7 @@ Haidilao Membership:
  
 ### For customers who wants to receive updates about Haidilao
 Social Media:
-  - Go to the 'Social Media' tab
+  - Scroll down at the bottom of every page
   - Try to click on the instagram icon and verify that it goes to the official Haidilao's instagram account
   - Try to click on the facebook icon and verify that it goes to the official Haidilao's youtube account
 
