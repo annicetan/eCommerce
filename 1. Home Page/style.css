@@ -1,5 +1,6 @@
 #title {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 .button-grp{
     max-width:100%;
@@ -42,15 +43,11 @@ button:hover{
     margin-left: 11.5%; 
 }
 
-#line{
-    background-color: red;
-    height: 5px;
-}
-
-.social{
-    display:flex;
-    flex-wrap: wrap;
-    width:100%;
+.social
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #contact-us{
@@ -58,12 +55,9 @@ button:hover{
     font-size: 15px;
     font-family: 'Dosis', sans-serif;
 }
-/* 
-.ig{
-    float: center;
-    width: 40%;
+
+.ig, .fb
+{
+    display: inline-block;
 }
-.fb{
-    float: center;
-    width: 40%;
-} */
+
