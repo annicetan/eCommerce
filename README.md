@@ -9,9 +9,8 @@ This website is mainly for customers who wants to buy merchandise and find out w
 
 In my project, I have created a few pages including:
   - Home
-    - Picture & Logo
-    - Features latest and top-rated products
-    - Allow user to view some of the products by scrolling down
+    - Picture of steamboat to attract customers to eat the hotpot
+    - 
     
   - About
     - Website's content
