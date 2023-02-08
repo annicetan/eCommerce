@@ -15,7 +15,7 @@
 
 .button-grp{
     max-width:100%;
-    background-color: lightcoral; 
+    background-color: black; 
 }
 #belowheading{
     width:10px;
@@ -31,7 +31,7 @@
     border: 2px solid orange;
 }
 .thisbutton {
-    background-color: lightcoral;
+    background-color: black;
     border: none;
     color: white;
     padding: 20px;
@@ -41,13 +41,38 @@
     font-size: 20px;
     width: 24%;
     cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
 }  
 
 button:hover{
     background-color:lightslategrey;
 }
 
+.hotpot
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
+#welcome
+{
+    text-align: center;
+    background-color: #FFFBF5;
+    color: black;
+    font-family: 'Baloo 2', cursive;
+    font-size: 16px;
+}
+
+#vision
+{
+    text-align: center;
+    background-color: #FFFBF5;
+    color: black;
+    font-family: 'Baloo 2', cursive;
+    font-size: 16px;
+}
 #contact-us
 {
     text-align: center;

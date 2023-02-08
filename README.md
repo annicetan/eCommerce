@@ -10,7 +10,10 @@ This website is mainly for customers who wants to buy merchandise and find out w
 In my project, I have created a few pages including:
   - Home
     - Picture of steamboat to attract customers to eat the hotpot
-    - 
+    - Brand Story
+    - Our Vision
+    - Contact US
+    - Social media 
     
   - About
     - Website's content
