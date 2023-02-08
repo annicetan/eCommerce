@@ -48,36 +48,22 @@ button:hover{
     background-color:lightslategrey;
 }
 
-.hotpot
+.welcome
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Baloo 2', cursive;
+    font-weight: bolder;
 }
 
-#welcome
-{
-    text-align: center;
-    background-color: #FFFBF5;
-    color: black;
-    font-family: 'Baloo 2', cursive;
-    font-size: 16px;
-}
 
-#vision
+#footer
 {
     text-align: center;
-    background-color: #FFFBF5;
-    color: black;
+    font-size: 14px;
     font-family: 'Baloo 2', cursive;
-    font-size: 16px;
-}
-#contact-us
-{
-    text-align: center;
-    font-size: 15px;
-    font-family: 'Dosis', sans-serif;
+    background-color: #FF7276;
+    font-weight: bold;
 }
 
 
