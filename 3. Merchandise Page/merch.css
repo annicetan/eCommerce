@@ -1,10 +1,21 @@
-#title {
+#title
+{
     text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 100px;
 }
+
+.p1
+{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+
 
 .button-grp{
     max-width:100%;
-    background-color: white; 
+    background-color: black; 
 }
 
 #belowheading{
@@ -21,33 +32,63 @@
     margin-top:auto;
     border: 2px solid orange;
   }
-    .thisbutton {
-    background-color: white;
+
+
+  .thisbutton {
+    background-color: black;
     border: none;
-    color: black;
+    color: white;
     padding: 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 15px;
+    font-size: 20px;
     width: 24%;
     cursor: pointer;
-  
-  }  
+    font-family: 'Montserrat', sans-serif;
+}  
+
 button:hover{
-    background-color:lightcoral;
+    background-color:lightslategrey;
 }
 
-.circle {
-    background: lightgrey;
-    border-radius: 50%;
-    width: 10px;
-    height: 10px;
-    margin-left: 60%;
-    
+.soup
+{
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    font-weight: bolder;
 }
 
-#line{
-    background-color: red;
-    height: 5px;
-}
+
+
+.card
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Baloo 2', cursive;
+    font-size: smaller;
+  }
+
+  .card  
+  {
+    float: left;
+    width: 30%;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }

@@ -9,15 +9,13 @@ This website is mainly for customers who wants to buy merchandise and find out w
 
 In my project, I have created a few pages including:
   - Home
-    - Picture of steamboat to attract customers to eat the hotpot
-    - Brand Story
-    - Our Vision
-    - Contact US
-    - Social media 
+    - Welcome statements
+    - Ways to contact us
+    - Social Media 
     
   - About
-    - Website's content
-    - Link to HaiDiLao's original website
+    - Brand Story
+    - Our Vision
     
   - Haidilao Merchandise
     - Main point of this project
