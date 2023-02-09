@@ -52,7 +52,7 @@ button:hover{
     background-color:lightslategrey;
 }
 
-.soup
+.soup, .self-heating, .bundles
 {
     font-family: 'Baloo 2', cursive;
     text-align: center;
@@ -71,12 +71,6 @@ button:hover{
     font-size: smaller;
   }
 
-  .card  
-  {
-    float: left;
-    width: 30%;
-  }
-  
   .card button {
     border: none;
     outline: 0;
