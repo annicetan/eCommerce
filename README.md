@@ -47,8 +47,7 @@ In my project, I have created a few pages including:
   - This page is for users to buy and check out the merchandise by Haidilao
   
 - Feature 4: Haidilao Membership Page
-  - Users are able to sign up for membership to win rewards 
-  - This page will also mention about the rewards and points awarded for members to attract customers to sign up for membership
+  - Users are able to sign up for membership 
 
 
 
