@@ -25,7 +25,7 @@ In my project, I have created a few pages including:
     - Signing up for membership
     - Rewards and points awarded
     
-  - Social Media (at the bottom of every page)
+  - Social Media (at the bottom of Home page)
     - Haidilao Official Instagram Account
     - Haidilao Official Facebook Account
  
@@ -33,16 +33,13 @@ In my project, I have created a few pages including:
 - Customers who wants to find out more about what merchandise or products Haidilao sells when they click on Merchandise page
 - Customers who have heard about Haidilao but have not tried it, are able to find out more information about Haidilao when they click on the About & Home page
 
-### Wireframe 
-
-
 
 ## Features
 - Feature 1: Home Page
-  - Once user opens the website, they will be met by the website's home page with a picture and a logo of Haidilao for a few seconds
+  - Once user opens the website, they will be met by the website's home page with Welcome statements,ways to contact us and social media buttons for a few seconds
   
 - Feature 2: About Page
-  - When user click on the 'About' tab, the page will be opened up and they will be able to see the contents of the website. We will include a link to the HaiDiLao's original website that shows their mission, motto and services. 
+  - When user click on the 'About' tab, the page will be opened up and they will be able to see the contents of the website. We will include HaiDiLao's brand story and vision.
     
 - Feature 3: Haidilao Merchandise Page
   - Main point of this entire project
@@ -52,11 +49,6 @@ In my project, I have created a few pages including:
 - Feature 4: Haidilao Membership Page
   - Users are able to sign up for membership to win rewards 
   - This page will also mention about the rewards and points awarded for members to attract customers to sign up for membership
-
-- Feature 5: Social Media Page
-  - When users click onto the social media logo, they will be brought to the social media page
-  - Purpose of the social media page is to check out any updates of Haidilao (e.g. release of new merchanidse)
-  - E.g. Click on instagram logo, will be brought to Haidilao's Main Instagram page
 
 
 
@@ -99,6 +91,9 @@ Social Media:
 
 
 ## Credits
+### Contributors
+Vivian Lee Ching & Annice Tan
+
 ### Content
 - Most of the information about the merchandise sold at Haidilao is from: https://www.yuehwa.com.sg/en-us/shop-by-brand/hai-di-lao/
 
